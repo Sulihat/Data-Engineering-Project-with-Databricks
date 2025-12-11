@@ -25,7 +25,8 @@ To address this, I implemented an end-to-end data engineering solution using Dat
 
 # Architecture
 
-<img width="1920" height="1080" alt="Workflow Diagram Planning Whiteboard in Green Yellow Modern Professional Style" src="https://github.com/user-attachments/assets/9f4b14b7-0d9f-42fb-871e-941dfb45c5b1" />
+<img width="1920" height="1080" alt="Workflow Diagram Planning Whiteboard in Green Yellow Modern Professional Style (1)" src="https://github.com/user-attachments/assets/8797703f-41cb-4965-983e-a43d3eb72e15" />
+
 
 
 
