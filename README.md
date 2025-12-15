@@ -28,5 +28,7 @@ To address this, I implemented an end-to-end data engineering solution using Dat
 <img width="1920" height="1080" alt="Workflow Diagram Planning Whiteboard in Green Yellow Modern Professional Style (1)" src="https://github.com/user-attachments/assets/8797703f-41cb-4965-983e-a43d3eb72e15" />
 
 
-
+# Solution Overview
+For a detailed explanation of the solution design, architecture decisions, data modeling approach, and step-by-step walkthrough, please read my article published on LinkedIn.
+👉 Link to the LinkedIn article: (https://www.linkedin.com/pulse/end-data-engineering-project-databricks-sulihat-sobalaje-79ele)
 
